@@ -1,2 +1,2 @@
 # comp3000
-testing purposes
+Project comp3000 testing purposes
